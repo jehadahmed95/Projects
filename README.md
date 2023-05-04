@@ -1,4 +1,4 @@
-#Analysis of Satellite Images of the Arctic Ocean
+Analysis of Satellite Images of the Arctic Ocean
 Introduction
 This project utilizes data collected by two different satellite missions, namely the Aqua satellite with the AMSR-E instrument (2002-2011 data) and the GCOM-W satellite with the AMSR2 instrument (2013-2019 data). The data comprises of maps showing the concentration of ice in the Arctic Ocean between 2002 and 2019, with the exception of 2012. This subset of the satellite data set contains two ice maps every month (some are missing), and all the data was downloaded from this source.
 
